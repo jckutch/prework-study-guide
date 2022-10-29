@@ -3,14 +3,11 @@
     padding: 0;
 }
 
-<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
 }
 
-=======
->>>>>>> db4d05f51abfeb1fd01afd88665a4daf8826e74f
 header,
 footer {
     width: 100%;
@@ -23,10 +20,6 @@ h1,
 h2 {
     text-align: center;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> db4d05f51abfeb1fd01afd88665a4daf8826e74f
 img {
     display: block;
     height: 50px;
@@ -50,10 +43,6 @@ p {
     margin: 40px auto;
     border: 5px solid #398D1E;
     box-shadow: 5px 10px #888888;
-<<<<<<< HEAD
   }
 
   
-=======
-  }
->>>>>>> db4d05f51abfeb1fd01afd88665a4daf8826e74f
